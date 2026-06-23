@@ -46,4 +46,3 @@ An interactive, enterprise-grade full-stack machine learning workbench for analy
    - Emits tactical account diagnostics alongside custom personalized email outreach scripts.
 
 ---
--Stac
