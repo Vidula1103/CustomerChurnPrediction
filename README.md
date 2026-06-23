@@ -47,4 +47,4 @@ An interactive, enterprise-grade full-stack machine learning workbench for analy
 
 ---
 
-## 🏗️ Full-Stack Technical Architecture
+## 🏗️ Full-Stac
