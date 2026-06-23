@@ -4,24 +4,32 @@ An interactive, enterprise-grade full-stack machine learning workbench for analy
 
 ---
 
-## 🎨 Professional Polish UI preview
+## 🎨 UI preview
 
-### 🖥️ Dashboard & Heuristics Overview
-![Dashboard Overview](screenshots/dashboard_overview.png)
-*Figure 1: Complete view of the Churn predictions, dynamic KPI metrics, and gradient training convergence curve.*
+### 1. screen 1
+![Main Application Interface Workspace](https://github.com/Vidula1103/CustomerChurnPrediction/blob/main/CCP1.png)
+### 2. screen 2
+![Main Application Interface Workspace](https://github.com/Vidula1103/CustomerChurnPrediction/blob/main/CCP2.png)
+### 3. screen 3
+![Main Application Interface Workspace](https://github.com/Vidula1103/CustomerChurnPrediction/blob/main/CCP3.png)
+### 4. screen 4
+![Main Application Interface Workspace](https://github.com/Vidula1103/CustomerChurnPrediction/blob/main/CCP4.png)
+### 5. screen 5
+![Main Application Interface Workspace](https://github.com/Vidula1103/CustomerChurnPrediction/blob/main/CCP5.png)
+### 6. screen 6
+![Main Application Interface Workspace](https://github.com/Vidula1103/CustomerChurnPrediction/blob/main/CCP6.png)
+### 7. screen 7
+![Main Application Interface Workspace](https://github.com/Vidula1103/CustomerChurnPrediction/blob/main/CCP7.png)
+### 8. screen 8
+![Main Application Interface Workspace](https://github.com/Vidula1103/CustomerChurnPrediction/blob/main/CCP7.png)
+### 9. screen 9
+![Main Application Interface Workspace](https://github.com/Vidula1103/CustomerChurnPrediction/blob/main/CCP9.png)
 
-### ⚖️ Preprocessing: SMOTE Class Balancer
-![SMOTE Visualizer](screenshots/smote_viz.png)
-*Figure 2: Real-time 2D Scatter plot showing synthetic customer nodes generated to resolve cohort imbalancing.*
-
-### 🧪 Dynamic Sandbox and Retention Playground
-![Interactive Playground](screenshots/sandbox_simulator.png)
-*Figure 3: Tweaking variables in real-time to predict churn risk and drafting enterprise retention playbooks instantly.*
 
 ---
 
 ## 🚀 Key Features
-
+   
 1. **Synthetic Sample Generation (SMOTE)**:
    - Interpolates synthetic minority customer cancelation records along line segments of their nearest neighbors ($k$-NN).
    - Mitigates default-class prediction bias (over-categorizing everyone as "Loyal") to boost actual **Recall (Sensitivity)**.
