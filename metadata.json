@@ -1,0 +1,6 @@
+{
+  "name": "Customer Churn Prediction",
+  "description": "An interactive machine learning and data preprocessing application for predicting and analyzing customer churn using SMOTE, Logistic Regression, Decision Trees, and Neural Networks, with custom metrics, training logs, and AI-powered retention playbooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
